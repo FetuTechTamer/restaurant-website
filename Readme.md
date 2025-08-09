@@ -12,7 +12,6 @@ Welcome to the Sizzle and Serve website! This project showcases a culinary exper
 - [Installation Guide](#installation-guide)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -33,25 +32,25 @@ Sizzle and Serve is a food website built using HTML, CSS, and JavaScript. It aim
 
 ## Screenshots
 
-![Home Page](sample_screenshoots/screenshot1.png)
+![Home Page](sample_screenshoots/screenshoot1.png)
 *Home Page*
 
-![Recipe Page](sample_screenshoots/screenshot2.png)
+![Recipe Page](sample_screenshoots/screenshoot2.png)
 *Recipe Page*
 
-![Contact Page](sample_screenshoots/screenshot3.png)
+![Contact Page](sample_screenshoots/screenshoot3.png)
 *Contact Page*
 
 ## Installation Guide
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sizzle-and-serve.git
+   git clone https://github.com/FetuTechTamer/restaurant-website.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd sizzle-and-serve
+   cd restaurant-website
    ```
 
 3. Open the `index.html` file in your web browser.
@@ -66,14 +65,3 @@ Sizzle and Serve is a food website built using HTML, CSS, and JavaScript. It aim
 
 Contributions are welcome! Please submit a pull request or open an issue to discuss improvements or features.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-### Instructions:
-- Replace `path/to/screenshotX.png` with the actual paths to your screenshot images.
-- Update the repository link with your actual GitHub repository URL.
-- Customize any sections as needed to fit your project specifics. 
-
-Let me know if you need further adjustments!
